@@ -1,2 +1,26 @@
-This isda;hshsghfduhgufdjdfkjfdkjndfkjnjndfjf
-dsjkafhjhljafhjlhdasfhlhlkjsfhjhladkjs
+1. This project aims to investigate factors that might be correlated to increased rates of suicide among different cohorts globally, across the socio-economic spectrum.
+
+References for data 
+United Nations Development Program. (2018). Human development index (HDI). Retrieved from http://hdr.undp.org/en/indicators/137506
+World Bank. (2018). World development indicators: GDP (current US$) by country:1985 to 2016. Retrieved from http://databank.worldbank.org/data/source/world-development-indicators#
+[Szamil]. (2017). Suicide in the Twenty-First Century [dataset]. Retrieved from https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook
+World Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/
+
+The datasets have been combined into one with dimension 27.8k rows by 12 columns.
+
+
+
+2. This project aims to extract the sentiments of the tweets captured during the 3rd game of the 2018 NBA Finals between Cleveland Cavaliers and Golden State Warriors.
+
+References for data
+Twitter API
+The tweets dataset is 51.4k rows by 44 columns 
+The locations dataset is 4163 rows by 3 columns
+
+
+
+3. This project aims to investigate the customer purchase behaviour against different products.
+
+References for data 
+From Analytics Vidhya 
+Retail observation on Black Friday of 538k rows by 12 columns
