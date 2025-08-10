@@ -1,15 +1,1 @@
-1. This project aims to investigate factors that might be correlated to increased rates of suicide among different cohorts globally, across the socio-economic spectrum.
 
-The dataset is available on this link: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016#master.csv
-
-
-
-2. This project aims to extract the sentiments of the tweets captured during the 3rd game of the 2018 NBA Finals between Cleveland Cavaliers and Golden State Warriors.
-
-The dataset is available on this link: https://www.kaggle.com/xvivancos/tweets-during-cavaliers-vs-warriors#TweetsNBA.csv
-
-
-
-3. This project aims to investigate the customer purchase behaviour against different products.
-
-The dataset is available on this link: https://www.kaggle.com/mehdidag/black-friday
